@@ -2,35 +2,35 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Bem-Vindo+ao+meu+Github!&color=F8EFD3&size=29" alt="Bem-Vindo ao meu Github!" style="height: 150px;">
 </a>
 
-
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=matheusmrq&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Matheus Marquesi!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-
 <p>Tenho 17 anos e sou um estudante e entusiasta na área da programação. Faço aplicações simples em Python e C++ desde os meus 12 anos e venho me aprofundando nos frameworks OpenCV e Flask.</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmrq&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00" alt="Linguagens mais usadas">
 
 <details open> 
   <summary><h1>🪐 Melhores Projetos</h1></summary>
   <details open> 
     <summary><h2>🐍 Best Python Projects</h2></summary>
-     <p align="left">
-      <a href="https://github.com/MatheusMrq/HashCracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=HashCracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hash Cracker"></a>
-       <a href="https://github.com/MatheusMrq/TrigonometryInPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=TrigonometryInPython&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigonometry In Python"></a>
-       <a href="https://github.com/MatheusMrq/RescuzeMaze2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=RescuzeMaze2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RescuzeMaze 2023"></a>
+     <p align="left" style="margin-top: 10px;">
+     <a href="https://github.com/MatheusMrq/HashCracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=HashCracker&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hash Cracker"></a>
+     <a href="https://github.com/MatheusMrq/TrigonometryInPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=TrigonometryInPython&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigonometry In Python"></a>
+     <a href="https://github.com/MatheusMrq/RescuzeMaze2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=RescuzeMaze2023&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="RescuzeMaze 2023"></a>
      </p>
   </details>
   <details open> 
     <summary><h2>☔️ Best Web-applications Projects</h2></summary>
-     <p align="left">
-      <a href="https://github.com/MatheusMrq/Profile"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Profile&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile"></a>
-       <a href="https://github.com/MatheusMrq/Mundo-Senai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai"></a>
+     <p align="left" style="margin-top: 10px;">
+      <a href="https://github.com/MatheusMrq/Profile"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Profile&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile"></a>
+      <a href="https://github.com/MatheusMrq/Mundo-Senai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai"></a>
      </p>
   </details>
 </details>
+
 <hr>
 
 ### Minhas Skills:
