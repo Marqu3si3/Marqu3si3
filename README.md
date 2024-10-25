@@ -10,7 +10,9 @@
 
 <p>Tenho 17 anos e sou um estudante e entusiasta na área da programação. Faço aplicações simples em Python e C++ desde os meus 12 anos e venho me aprofundando nos frameworks OpenCV e Flask.</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmrq&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00" alt="Linguagens mais usadas">
+| <img src="https://64.media.tumblr.com/3a4c0ec2a5f92aaca1719d8c5743bd6e/tumblr_nu62aw79pI1qmggloo1_640.gif" alt="GIF de Calvin e Haroldo" width="400"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
+| --- | --- |
+
 
 <details open> 
   <summary><h1>🪐 Melhores Projetos</h1></summary>
@@ -43,3 +45,4 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmrq&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=000000&icon_color=783c00">
