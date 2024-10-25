@@ -10,7 +10,7 @@
 
 <p>Tenho 17 anos e sou um estudante e entusiasta na área da programação. Faço aplicações simples em Python e C++ desde os meus 12 anos e venho me aprofundando nos frameworks OpenCV e Flask.</p>
 
-| <img src="https://64.media.tumblr.com/3a4c0ec2a5f92aaca1719d8c5743bd6e/tumblr_nu62aw79pI1qmggloo1_640.gif" alt="GIF de Calvin e Haroldo" width="400"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
+| <img src="https://i.pinimg.com/originals/22/a0/9e/22a09e751c29806f1d775438aafaa495.gif" alt="GIF de Calvin e Haroldo" width="200"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
 | --- | --- |
 
 
