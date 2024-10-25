@@ -10,7 +10,7 @@
 
 <p>Tenho 17 anos e sou um estudante e entusiasta na área da programação. Faço aplicações simples em Python e C++ desde os meus 12 anos e venho me aprofundando nos frameworks OpenCV e Flask.</p>
 
-| <img src="https://i.pinimg.com/originals/22/a0/9e/22a09e751c29806f1d775438aafaa495.gif" alt="GIF de Calvin e Haroldo" width="200"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
+| <img src="https://i.pinimg.com/originals/22/a0/9e/22a09e751c29806f1d775438aafaa495.gif" alt="GIF ilustrativo" width="200"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
 | --- | --- |
 
 
@@ -45,4 +45,6 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmrq&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=000000&icon_color=783c00">
+
+| Pretendo aprender React, Typescript, Tesseract-ocr e me aprofundar cada vez mais em banco de dados MySQL. | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmrq&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=000000&icon_color=783c00" width="500"> |
+| --- | --- |
