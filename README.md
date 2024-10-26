@@ -27,8 +27,12 @@
   <details open> 
     <summary><h2>☔️ Best Web-applications Projects</h2></summary>
      <p align="left" style="margin-top: 10px;">
-      <a href="https://github.com/MatheusMrq/Profile"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Profile&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile"></a>
-      <a href="https://github.com/MatheusMrq/Mundo-Senai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai"></a>
+     <a href="https://github.com/MatheusMrq/Profile">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Profile&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile">
+</a>
+<a href="https://github.com/MatheusMrq/Mundo-Senai">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai">
+</a>
      </p>
   </details>
 </details>
