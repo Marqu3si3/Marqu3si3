@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Bem-Vindo+ao+meu+Github!&color=F8EFD3&size=29" alt="Bem-Vindo ao meu Github!" style="height: 150px;">
 </a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=matheusmrq&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=endchuva&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Matheus!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Matheus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=endChuva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Tenho 17 anos e sou um estudante e entusiasta na área da programação. Faço aplicações simples em Python e C++ desde os meus 12 anos e venho me aprofundando nos frameworks OpenCV e Flask.</p>
 
@@ -21,7 +21,7 @@
      <p align="left" style="margin-top: 10px;">
      <a href="https://github.com/endChuva/HashCracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=HashCracker&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hash Cracker"></a>
      <a href="https://github.comendChuva/TrigonometryInPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=TrigonometryInPython&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigonometry In Python"></a>
-     <a href="https://github.com/endChuva/QR-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=RescuzeMaze2023&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="QR Code Generator"></a>
+     <a href="https://github.com/endChuva/QR-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=Qr-codeGenerator&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="QR Code Generator"></a>
      </p>
   </details>
   <details open> 
