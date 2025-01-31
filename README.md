@@ -13,25 +13,24 @@
 | <img src="https://media.tenor.com/9nBgEcu8e2IAAAAj/charizard-pokemon.gif" alt="GIF ilustrativo" width="200"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
 | --- | --- |
 
-
 <details open> 
   <summary><h1>🪐 Melhores Projetos</h1></summary>
   <details open> 
     <summary><h2>🐍 Best Python Projects</h2></summary>
      <p align="left" style="margin-top: 10px;">
      <a href="https://github.com/endChuva/HashCracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=HashCracker&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hash Cracker"></a>
-     <a href="https://github.comendChuva/TrigonometryInPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=TrigonometryInPython&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigonometry In Python"></a>
-     <a href="https://github.com/endChuva/QR-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=Qr-codeGenerator&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="QR Code Generator"></a>
+     <a href="https://github.com/endChuva/TrigonometryInPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=TrigonometryInPython&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigonometry In Python"></a>
+     <a href="https://github.com/endChuva/QR-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=QR-Generator&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="QR Code Generator"></a>
      </p>
   </details>
   <details open> 
     <summary><h2>☔️ Best Web-applications Projects</h2></summary>
      <p align="left" style="margin-top: 10px;">
      <a href="https://github.com/endChuva/Profile">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Profile&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=Profile&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile">
 </a>
 <a href="https://github.com/endChuva/Mundo-Senai">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai">
 </a>
      </p>
   </details>
