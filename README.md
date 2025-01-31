@@ -4,7 +4,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=matheusmrq&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Olá, meu nome é Matheus Marquesi!
+### Olá, meu nome é Matheus!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
@@ -19,18 +19,18 @@
   <details open> 
     <summary><h2>🐍 Best Python Projects</h2></summary>
      <p align="left" style="margin-top: 10px;">
-     <a href="https://github.com/MatheusMrq/HashCracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=HashCracker&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hash Cracker"></a>
-     <a href="https://github.com/MatheusMrq/TrigonometryInPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=TrigonometryInPython&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigonometry In Python"></a>
-     <a href="https://github.com/MatheusMrq/RescuzeMaze2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=RescuzeMaze2023&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="RescuzeMaze 2023"></a>
+     <a href="https://github.com/endChuva/HashCracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=HashCracker&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hash Cracker"></a>
+     <a href="https://github.comendChuva/TrigonometryInPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=TrigonometryInPython&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigonometry In Python"></a>
+     <a href="https://github.com/endChuva/QR-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=RescuzeMaze2023&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="QR Code Generator"></a>
      </p>
   </details>
   <details open> 
     <summary><h2>☔️ Best Web-applications Projects</h2></summary>
      <p align="left" style="margin-top: 10px;">
-     <a href="https://github.com/MatheusMrq/Profile">
+     <a href="https://github.com/endChuva/Profile">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Profile&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile">
 </a>
-<a href="https://github.com/MatheusMrq/Mundo-Senai">
+<a href="https://github.com/endChuva/Mundo-Senai">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatheusMrq&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai">
 </a>
      </p>
@@ -50,5 +50,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-| Pretendo aprender React, Typescript, Tesseract-ocr e me aprofundar cada vez mais em banco de dados MySQL. | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmrq&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=000000&icon_color=783c00" width="500"> |
+| Pretendo aprender React, Typescript, Tesseract-ocr e me aprofundar cada vez mais em banco de dados MySQL. | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endchuva&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=000000&icon_color=783c00" width="500"> |
 | --- | --- |
