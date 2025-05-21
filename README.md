@@ -49,5 +49,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-| Pretendo aprender React, Typescript, Tesseract-ocr e me aprofundar cada vez mais em banco de dados MySQL. | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endchuva&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=000000&icon_color=783c00" width="500"> |
+| Pretendo aprender React, Typescript, Tesseract-ocr e me aprofundar cada vez mais em banco de dados MySQL. | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqu3si3&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=000000&icon_color=783c00" width="500"> |
 | --- | --- |
