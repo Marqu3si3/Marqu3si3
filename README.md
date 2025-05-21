@@ -13,7 +13,6 @@
 | <img src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif" alt="GIF ilustrativo" width="200"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
 | --- | --- |
 
-<details open> 
   <h1>🪐 Melhores Projetos</h1>
   <details open> 
     <summary><h2>🐍 Best Python Projects</h2></summary>
