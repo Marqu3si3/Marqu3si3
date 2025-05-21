@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=endChuva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Tenho 17 anos e sou um estudante e entusiasta na área da programação. Faço aplicações simples em Python e C++ desde os meus 12 anos e venho me aprofundando nos frameworks OpenCV e Flask.</p>
+<p>Tenho 17 anos e sou um estudante e entusiasta na área da programação. Faço aplicações simples em Python e C++ desde os meus 12 anos...</p>
 
 | <img src="https://media.tenor.com/9nBgEcu8e2IAAAAj/charizard-pokemon.gif" alt="GIF ilustrativo" width="200"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
 | --- | --- |
