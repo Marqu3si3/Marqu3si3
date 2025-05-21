@@ -15,21 +15,21 @@
 
   <h1>🪐 Melhores Projetos</h1>
   <details open> 
-    <summary><h2>🐍 Best Python Projects</h2></summary>
+    <summary><h2>🐍 Python</h2></summary>
      <p align="left" style="margin-top: 10px;">
-     <a href="https://github.com/endChuva/HashCracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=HashCracker&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hash Cracker"></a>
-     <a href="https://github.com/endChuva/TrigonometryInPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=TrigonometryInPython&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigonometry In Python"></a>
-     <a href="https://github.com/endChuva/QR-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=QR-Generator&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="QR Code Generator"></a>
+     <a href="https://github.com/Marqu3si3/HashCracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marqu3si3&repo=HashCracker&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hash Cracker"></a>
+     <a href="https://github.com/Marqu3si3/TrigonometryInPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marqu3si3&repo=TrigonometryInPython&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigonometry In Python"></a>
+     <a href="https://github.com/Marqu3si3/QR-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marqu3si3&repo=Marqu3si3&theme=react&bg_color=1F222E&title_color=306998&hide_border=true&icon_color=F8D866&show_icons=false" alt="QR Code Generator"></a>
      </p>
   </details>
   <details open> 
-    <summary><h2>☔️ Best Web-applications Projects</h2></summary>
+    <summary><h2>☔️ Web-applications</h2></summary>
      <p align="left" style="margin-top: 10px;">
-     <a href="https://github.com/endChuva/Profile">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=Profile&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile">
+     <a href="https://github.com/Marqu3si3/Profile">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marqu3si3&repo=Profile&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile">
 </a>
-<a href="https://github.com/endChuva/Mundo-Senai">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=endChuva&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai">
+<a href="https://github.com/Marqu3si3/Mundo-Senai">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marqu3si3&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai">
 </a>
      </p>
   </details>
