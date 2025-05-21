@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Bem-Vindo+ao+meu+Github!&color=F8EFD3&size=29" alt="Bem-Vindo ao meu Github!" style="height: 150px;">
 </a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=endchuva&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Marqu3si3&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Matheus!
 
