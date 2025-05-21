@@ -28,8 +28,8 @@
      <a href="https://github.com/Marqu3si3/Profile">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marqu3si3&repo=Profile&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Profile">
 </a>
-<a href="https://github.com/Marqu3si3/Mundo-Senai">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marqu3si3&repo=Mundo-Senai&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai">
+<a href="https://github.com/Marqu3si3/DengueSENAI">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marqu3si3&repo=DengueSENAI&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mundo Senai">
 </a>
      </p>
   </details>
