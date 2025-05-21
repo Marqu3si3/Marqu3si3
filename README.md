@@ -14,7 +14,7 @@
 | --- | --- |
 
 <details open> 
-  <summary><h1>🪐 Melhores Projetos</h1></summary>
+  <h1>🪐 Melhores Projetos</h1>
   <details open> 
     <summary><h2>🐍 Best Python Projects</h2></summary>
      <p align="left" style="margin-top: 10px;">
