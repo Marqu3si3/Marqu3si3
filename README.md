@@ -6,7 +6,7 @@
 
 ### Olá, meu nome é Matheus!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=endChuva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Matheus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Tenho 17 anos e sou um estudante e entusiasta na área da programação. Faço aplicações simples em Python e C++ desde os meus 12 anos...</p>
 
