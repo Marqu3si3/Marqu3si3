@@ -10,7 +10,7 @@
 
 <p>Tenho 17 anos e sou um estudante e entusiasta na área da programação. Faço aplicações simples em Python e C++ desde os meus 12 anos...</p>
 
-| <img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" alt="GIF ilustrativo" width="200"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
+| <img src="https://storage.ko-fi.com/cdn/useruploads/display/9429524d-18a3-4f17-b092-ae35c4682ac4_8c92ae4d-1e66-4d3d-8eea-0c71c39696ff.gif" alt="GIF ilustrativo" width="200"> | "As escolhas que fazemos moldam não apenas o nosso destino, mas também o daqueles ao nosso redor. Cada decisão carrega consigo um peso que pode influenciar vidas de maneiras que muitas vezes não podemos imaginar." - Brandon Sanderson
 | --- | --- |
 
 <details open> 
